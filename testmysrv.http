@@ -1,0 +1,4 @@
+##V2 Service
+#GET http://localhost:4004/v2/CatalogService
+
+GET http://localhost:4004/CatalogService
